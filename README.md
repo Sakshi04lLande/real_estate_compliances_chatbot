@@ -1,7 +1,7 @@
 ````md
 #  Mumbai Construction Compliance Assistant (AI + RAG)
 
-An **AI-powered compliance assistant** for construction projects in **Mumbai**, built using **LLMs + Retrieval-Augmented Generation (RAG)**.  
+An AI-powered compliance assistant for construction projects in Mumbai, built using LLMs + Retrieval-Augmented Generation (RAG).  
 The system analyzes a project description and generates a **stage-wise, regulation-backed compliance checklist** aligned with:
 
 -  Mumbai DCPR 2034  
@@ -9,9 +9,9 @@ The system analyzes a project description and generates a **stage-wise, regulati
 -  NBC 2016 (Part 4 – Fire & Life Safety)  
 -  BMC & MPCB Circulars (environment, pollution, parking, etc.)
 
-This tool helps builders, architects, consultants, and planners **identify mandatory approvals, NOCs, and legal obligations** before, during, and after construction.
-> **Multilingual Support:**
-> Users can ask questions in **English, Hindi, or Marathi**. The system uses multilingual semantic understanding to interpret queries and retrieve relevant Mumbai-specific regulations. Responses are currently generated in **English** based on official government documents.
+This tool helps builders, architects, consultants, and planners identify mandatory approvals, NOCs, and legal obligations before, during, and after construction.
+> Multilingual Support:
+> Users can ask questions in English, Hindi, or Marathi. The system uses multilingual semantic understanding to interpret queries and retrieve relevant Mumbai-specific regulations. Responses are currently generated in English based on official government documents.
 
 
 ---
