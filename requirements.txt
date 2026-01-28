@@ -1,0 +1,30 @@
+# UI
+streamlit
+python-dotenv
+
+# LangChain Core
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# LLM & Embeddings
+langchain-openai
+langchain-huggingface
+sentence-transformers
+
+# Vector DB
+langchain-chroma
+chromadb
+
+# PDF Extraction
+PyPDF2
+PyPDF
+pdfplumber
+
+# Backend API
+fastapi
+uvicorn
+
+# Validation
+pydantic
