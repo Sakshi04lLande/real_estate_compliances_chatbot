@@ -10,6 +10,9 @@ The system analyzes a project description and generates a **stage-wise, regulati
 -  BMC & MPCB Circulars (environment, pollution, parking, etc.)
 
 This tool helps builders, architects, consultants, and planners **identify mandatory approvals, NOCs, and legal obligations** before, during, and after construction.
+> **Multilingual Support:**
+> Users can ask questions in **English, Hindi, or Marathi**. The system uses multilingual semantic understanding to interpret queries and retrieve relevant Mumbai-specific regulations. Responses are currently generated in **English** based on official government documents.
+
 
 ---
 
